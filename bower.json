@@ -1,0 +1,17 @@
+{
+    "name": "vibur-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Johan Kallas"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/vibur-bower.git"
+    },
+    "description": "Vibur font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
